@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/three-laptop/static/css/main.fe1319f9.css",
+    "main.js": "/three-laptop/static/js/main.76c4f4a8.js",
+    "index.html": "/three-laptop/index.html",
+    "main.fe1319f9.css.map": "/three-laptop/static/css/main.fe1319f9.css.map",
+    "main.76c4f4a8.js.map": "/three-laptop/static/js/main.76c4f4a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe1319f9.css",
+    "static/js/main.76c4f4a8.js"
+  ]
+}
