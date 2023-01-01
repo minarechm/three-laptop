@@ -31,7 +31,7 @@ const Scene = () => {
             position={ [0, 1.56, -1.4]}
             rotation-x={ - 0.256}
           >
-            <iframe src="http://test.lmi.sk/"></iframe>
+            <iframe src="https://minarechm.github.io/three-donuts/"></iframe>
           </Html>
         </primitive>
       </Center>
